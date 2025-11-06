@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.heart{
+    color: rgb(173, 45, 88);
+    font-size: 72px;
+}
+.calculator {
+    background-color: rgb(3, 3, 3);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.inout {
+        height: auto;
+        width: 25vw;
+    margin: 5px;
+    border: 1px solid rgb(121, 118, 118);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px rgba(210, 208, 208, 0.2);
+}
+
+input {
+    cursor: pointer;
+    background: transparent;
+    height: auto;
+    text-align: right;
+    font-size: 25px;
+    border: none;
+    color: white;
+    width: 100%;
+    padding: 30px;
+}
+
+button {
+    height: 50px;
+    width: 50px;
+    background: transparent;
+    font-size: 25px;
+    border-radius: 50px;
+    color: aliceblue;
+    box-shadow: 5px 5px 5px 5px rgba(210, 208, 208, 0.1);
+    border: none;
+    margin: 5px;
+    transform: scale(0.7);
+}
+
+.key {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.operator{
+        color: green;
+}
+.equal{
+ background-color: orange;
+}
+/* Responsive Design */
+@media (max-width: 1028px) {
+ 
+        .inout {
+                height: auto;
+                width: 60vw;
+           }
+
+        input {
+        height: auto;
+        font-size: 20px;
+        }
+        button {
+        height: 30px;
+        width: 30px;
+       font-size: 18px;
+        }
+}
