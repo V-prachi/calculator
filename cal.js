@@ -33,7 +33,12 @@
                   store = "";
               
             }
-
+            if(store === "12/12/1998"){
+              store= "Handsome Physics&Math sir"
+              input.value=store
+                  store = "";
+              
+            }
             
             if(store === "12/9/2003"){
               store= "Sarang ,didi"
