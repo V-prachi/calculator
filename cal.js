@@ -17,11 +17,11 @@
             } 
 
           
-            // if(e.target.innerHTML=== "="){
-            //   store= eval(input.value)
-            //   input.value=store
-            //   return
-            // }
+            if(e.target.innerHTML=== "="){
+              store= eval(input.value)
+              input.value=store
+              return
+            }
 
        store= store+e.target.innerHTML
         input.value=store
@@ -34,7 +34,7 @@
               
             }
             if(store === "12/12/1998"){
-              store= "Handsome Physics&Math sir"
+              store= "Physics & Math sir"
               input.value=store
                   store = "";
               
@@ -53,7 +53,7 @@
               return
             }
             if(store === "3/6/2006"){
-              store= "I love you prachi. you are so beautiful"
+              store= "I believe you VPrachi."
               input.value=store
                   store = "";
               return
@@ -72,7 +72,7 @@
             }
                        
             if(store === "10/10/2014"){
-              store= "love you baby"
+              store= "love you Devansh"
               input.value=store
               store = "";
               return
