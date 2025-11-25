@@ -33,21 +33,21 @@
                   store = "";
               
             }
-            if(store === "12/12/1998"){
-              store= "Physics & Math sir"
+            if(store === "26/02/2006"){
+              store= "My best math shifu"
               input.value=store
                   store = "";
               
             }
             
             if(store === "12/9/2003"){
-              store= "Sarang ,didi"
+              store= "aisitiru ,didi"
               input.value=store
                   store = "";
               return
             }
             if(store === "17/10/2000"){
-              store= " Mujhe mohabbat hai tujhse didi, love you"
+              store= "Wo ai ni, love you"
               input.value=store
                   store = "";
               return
@@ -59,7 +59,7 @@
               return
             }
             if(store === "6/3/2007"){
-              store= "smart + Education = Tabahi love you bro"
+              store= "Mature boy"
               input.value=store
                   store = "";
               return
@@ -72,12 +72,12 @@
             }
                        
             if(store === "10/10/2014"){
-              store= "love you Devansh"
+              store= "aisitiru Devansh"
               input.value=store
               store = "";
               return
             }            if(store === "27/2/2007"){
-              store= "best dude love you"
+              store= "You’re my favorite cell my baby"
               input.value=store
                   store = "";
               return
