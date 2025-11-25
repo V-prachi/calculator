@@ -44,7 +44,7 @@ button {
     font-size: 25px;
     border-radius: 50px;
     color: aliceblue;
-    box-shadow: 5px 5px 5px 5px rgba(210, 208, 208, 0.1);
+    box-shadow: 5px 5px 5px 5px rgba(45, 197, 45, 0.1);
     border: none;
     margin: 5px;
     transform: scale(0.7);
@@ -75,8 +75,8 @@ button {
         font-size: 20px;
         }
         button {
-        height: 50px;
-        width: 50px;
+        height: 38px;
+        width: 38px;
        font-size: 18px;
         }
 }
