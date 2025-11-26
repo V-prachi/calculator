@@ -30,8 +30,12 @@
             if(store === "12/8"){
               store= "I Love you appa"
               input.value=store
-                  store = "";
-              
+                  store = ""; 
+            }
+            if(store === "28/11/2023"){
+              store= "Another year of epic love💝Happy marriage anniversary✨, Did 💞 Jijaji"
+              input.value=store
+                  store = ""; 
             }
             if(store === "26/02/2006"){
               store= "My best math shifu"
