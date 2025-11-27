@@ -33,7 +33,7 @@
                   store = ""; 
             }
             if(store === "28/11/2023"){
-              store= "Another year of epic love💝Happy marriage anniversary✨, Did 💞 Jijaji"
+              store= "Another year of epic love💝Happy marriage anniversary✨, Didi 💞 Jijaji"
               input.value=store
                   store = ""; 
             }

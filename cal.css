@@ -25,7 +25,9 @@
     box-shadow: 5px 5px 5px 5px rgba(210, 208, 208, 0.2);
 }
 
-input {
+.display {
+     white-space: normal;
+  overflow-wrap: anywhere;
     cursor: pointer;
     background: transparent;
     height: auto;
